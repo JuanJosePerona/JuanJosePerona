@@ -5,7 +5,7 @@ I'm currently learning languages and frameworks of FrontEnd to be as qualified a
 I've worked for public administration for 10 years, and I think it's time to change.
 
 
-Skills:
+Languages and tools:
 
 <p>
   <a href="https://skillicons.dev">
@@ -14,5 +14,12 @@ Skills:
 </p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peronajuan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](juanjoseperona@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peronajuan/) 
+
+Contáctame:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p> (juanjoseperona@gmail.com) 
 
