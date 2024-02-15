@@ -7,7 +7,7 @@ I've worked for public administration for 10 years, and I think it's time to cha
 
 Skills:
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,git,vscode,js,py" />
   </a>
