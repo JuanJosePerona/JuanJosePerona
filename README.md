@@ -5,11 +5,11 @@ I'm currently learning languages and frameworks of FrontEnd to be as qualified a
 I've worked for public administration for 10 years, and I think it's time to change.
 
 
-Skills: HTML / CSS / PYTHON
+Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,vsc,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,vscode,js,py" />
   </a>
 </p>
 
