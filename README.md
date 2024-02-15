@@ -4,7 +4,7 @@ I'm from Córdoba - Argentina, moving to Spain soon.
 I'm currently learning languages and frameworks of FrontEnd to be as qualified as possible.
 I've worked for public administration for 10 years, and I think it's time to change.
 
-<img src='https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif'>
+[<img src='https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif'>](https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.webp)
 
 Skills: HTML / CSS / PYTHON
 
