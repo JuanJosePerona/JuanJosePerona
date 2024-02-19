@@ -9,24 +9,18 @@ Languages and tools:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,js,py" />
   </a>
 </p>
-
-Coming soon:
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,nextjs,py,django,mysql,mongodb" />
-  </a>
-</p>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peronajuan/) 
 
 Contact me:
+<p> juanjoseperona@gmail.com </p> 
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" /> juanjoseperona@gmail.com
+    [<img src="https://skillicons.dev/icons?i=instagram">] (https://www.instagram.com/peronajuan/)
   </a>
-</p> 
+</p>
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/peronajuan/) 
