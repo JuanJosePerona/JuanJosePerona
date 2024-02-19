@@ -14,11 +14,11 @@ Languages and tools:
 </p>
 
 Contact me:
-<p> juanjoseperona@gmail.com </p> 
+<p type="email"> juanjoseperona@gmail.com </p> 
 
 <p>
   <a href="https://skillicons.dev">
-    [<img src="https://skillicons.dev/icons?i=instagram">] (https://www.instagram.com/peronajuan/)
+    <img src="https://skillicons.dev/icons?i=instagram" (https://www.instagram.com/peronajuan/)> 
   </a>
 </p>
 
