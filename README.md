@@ -14,13 +14,6 @@ Languages and tools:
 </p>
 
 Contact me:
-<p type="email"> juanjoseperona@gmail.com </p> 
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram" (https://www.instagram.com/peronajuan/)> 
-  </a>
-</p>
-
-
-[<img src='https://skillicons.dev/icons?i=instagram' alt='instagram' height='40'>](https://www.instagram.com/peronajuan/) 
+[<img src='https://skillicons.dev/icons?i=instagram' alt='instagram'>](https://www.instagram.com/peronajuan/) 
+[<img src='https://skillicons.dev/icons?i=gmail' alt='gmail'>](juanjoseperona@gmail.com) 
