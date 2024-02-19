@@ -4,7 +4,7 @@ I'm from Córdoba - Argentina, moving to Spain soon.
 I've worked for public administration for 10 years, and I think it's time to change.
 I'm learning FrontEnd tools to be as qualified as possible.
 
-Languages and tools:
+#### Languages and tools:
 
 <p>
   <a href="https://skillicons.dev">
@@ -12,11 +12,11 @@ Languages and tools:
   </a>
 </p>
 
-####Social:
+#### Social:
 
 [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram'>](https://www.instagram.com/peronajuan/) 
 
-####Contact me:
+#### Contact me:
 
 <img src='https://skillicons.dev/icons?i=gmail' alt='gmail'>
 
