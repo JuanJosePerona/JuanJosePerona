@@ -12,12 +12,12 @@ Languages and tools:
   </a>
 </p>
 
-Social:
+####Social:
 
 [<img src='https://skillicons.dev/icons?i=instagram' alt='instagram'>](https://www.instagram.com/peronajuan/) 
 
-Contact me:
+####Contact me:
 
-[<img src='https://skillicons.dev/icons?i=gmail' alt='gmail'>]
+<img src='https://skillicons.dev/icons?i=gmail' alt='gmail'>
 
-(juanjoseperona@gmail.com)
+juanjoseperona@gmail.com
